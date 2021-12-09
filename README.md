@@ -10,6 +10,7 @@
 ## About
 
 Valorant Crosshair is a crosshair finding application for the popular FPS game Valorant.
+It provides the crosshair settings for different crosshairs of Valorant.
 
 ## Tools
 
